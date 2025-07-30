@@ -45,7 +45,7 @@ server = RDTLayer()
 # As you create your rdt algorithm for send and receive, turn these on.
 outOfOrder = False
 dropPackets = False
-delayPackets = False
+delayPackets = False 
 dataErrors = False
 
 # Create unreliable communication channels
